@@ -77,26 +77,6 @@ const Contact = () => {
             <div className="contact-details">
               <div className="contact-item">
                 <div className="contact-icon">
-                  <Mail size={24} />
-                </div>
-                <div>
-                  <h4>Email</h4>
-                  <a href="mailto:namuremabrendah@gmail.com">namuremabrendah@gmail.com</a>
-                </div>
-              </div>
-
-              <div className="contact-item">
-                <div className="contact-icon">
-                  <Phone size={24} />
-                </div>
-                <div>
-                  <h4>Phone</h4>
-                  <a href="tel:+256701276477">+256 701 276 477</a>
-                </div>
-              </div>
-
-              <div className="contact-item">
-                <div className="contact-icon">
                   <MapPin size={24} />
                 </div>
                 <div>
